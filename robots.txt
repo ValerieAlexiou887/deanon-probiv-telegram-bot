@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ValerieAlexiou887.github.io/deanon-probiv-telegram-bot/sitemap.xml
